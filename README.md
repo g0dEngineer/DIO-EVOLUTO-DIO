@@ -27,7 +27,7 @@
 
 ⚫ Rear "aileron diffusers" could act as bladeless turbines that vibrate appropriately to generate usable energy.
 
-⚫ On board (low energy consumption) 3d artificial intelligence/human assistant/friend in automobile, similar to my xSynth Honda Civic Demo (https://youtu.be/pxgLJSd3_-s)
+⚫ On board (low energy consumption) 3d artificial intelligence/human assistant/friend in automobile, similar to [my xSynth Honda Civic Demo](https://youtu.be/pxgLJSd3_-s).
 
 
 # Gallery/Blog/3d Model Download:
