@@ -22,7 +22,7 @@
 ⚫ On board (low energy consumption) 3d artificial intelligence/human assistant/friend in automobile, similar to my xSynth Honda Civic Demo (https://youtu.be/pxgLJSd3_-s)
 
 
-# Gallery/Blog:
+# Gallery/Blog/3d Model Download:
 
 https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio
 
