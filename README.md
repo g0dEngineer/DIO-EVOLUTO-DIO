@@ -1,4 +1,7 @@
 
+![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/0.png)
+
+![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/1.jpg)
 
 # Real life, full scale 1 of 1 production of my 3d concept Dio has began. This shall be a repository concerning software development re Dio.
 
@@ -9,6 +12,11 @@
 #NewSustainableEnergyVisualCarDesignCategory
 
 ✋✋Looking for some volunteers for this little project
+
+![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/1-annotated.png)
+
+![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/5-annotated.png)
+
 
 
 # Mid-term to Long-term Goals 
