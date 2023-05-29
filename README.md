@@ -3,7 +3,7 @@
 
 ![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/1.jpg)
 
-Shown above: Things that inspired [Bennett's automobile design](https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio) in association with [RobotizeJa](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/FAILURE-TO-ROBOTIZE-JAMAICA.md).
+Shown above: Things that inspired [Bennett's automobile design](https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio) in association with [RobotizeJa](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/FAILURE-TO-ROBOTIZE-JAMAICA.md) & [TheAriaDio](https://www.facebook.com/TheAriaDio) by Bennett.
 
 # Mid-term to Long-term Goals 
 
