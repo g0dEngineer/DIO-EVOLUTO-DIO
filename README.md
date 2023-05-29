@@ -32,6 +32,8 @@ https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
 #OmniAutomobil #Dio #NewSustainableEnergyVisualCarDesignCategory
 
 
+
+
 # Features
 
 ⚫ Glass like bonnet divider etc could act as a type of solar absorption unit
@@ -42,6 +44,9 @@ https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
 
 ⚫ On board (low energy consumption) 3d artificial intelligence/human assistant/friend in automobile, similar to [my xSynth Honda Civic Demo](https://youtu.be/pxgLJSd3_-s).
 
+
+
+
 # Author background
 
 ⚫By around 2030, according to BBC around 800 million jobs are slated to be automated away (including the recently celebrated BPO jobs), as I noted in one of my 2019 gleaner articles "[Why Jamaica urgently needs a Minister of Ai](https://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence)".
@@ -51,6 +56,9 @@ https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
 # In another local newspaper/gleaner article of mine in 2018, "[Utilising ai could aid economic stimulation](https://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could)", I also cited call center jobs as being liable to be automated by Ai. This is now becoming more apparent in 2023, with the introduction of [DISA to the Jamaican marketplace](https://www.instagram.com/p/CsxdWiot1PY/).
 
 ⚫As cited in the gleaner, to try to help nation mitigate some of the about fallout, around 2016 Bennett set out to launch the 1st known University of A.i., as launched partially at mlj-institute.rf.gd namely Machine Learning Jamaica Institute, though Bennett did not secure funding. Abu Dabi later launched a similar University for Ai in 2020.
+
+# To help muster more attention towards A.i. and fallout from automation, apart from teaching his A.i. course, and as a part of Bennett's passion, also set out to construct a simple/full scale self driving prototype, based on currently open-source technologies and Bennett's own 3d automobile design, namely Dio.
+
 
 
 # Gallery/Blog/3d Model Download:
