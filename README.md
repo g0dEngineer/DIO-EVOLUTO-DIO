@@ -3,7 +3,7 @@
 
 ![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/1.jpg)
 
-Shown above: Things that inspired [Bennett's automobile design](https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio).
+Shown above: Things that inspired [Bennett's automobile design](https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio) in association with [RobotizeJa](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/FAILURE-TO-ROBOTIZE-JAMAICA.md).
 
 # Mid-term to Long-term Goals 
 
@@ -54,7 +54,7 @@ https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
 
 # Author background
 
-⚫By around 2030, according to BBC around 800 million jobs are slated to be automated away (including the recently celebrated BPO jobs), as I noted in one of my 2019 gleaner articles "[Why Jamaica urgently needs a Minister of Ai](https://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence)".
+⚫By around 2030, according to BBC around 800 million jobs are slated to be automated away (including the recently celebrated BPO jobs), as I noted in one of my 2019 gleaner articles "[Why Jamaica urgently needs a Minister of Ai](https://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence)". This could result in steep increase in crime and violence/social unrest, [as I detailed 4 years ago at RobotizeJA](https://github.com/JordanMicahBennett/ROBOTIZE_JA/blob/master/data/FAILURE-TO-ROBOTIZE-JAMAICA.md). 
 
 ⚫In the same article, I cited that back in 2016 I had advised UWI to introduce Neural Networks to their Ai curicullum. These systems power many smart systems today, from RankBrain in Google search to ChatGPT. This would, among other goals, reasonably help us capitalize on Ai as creators of these platforms, rather than act as responders to growing waves of automation via unskilled Jamaicans in the modern era. Beyond these pitfalls, in the wave of demonstrably growing automation, increases in crime etc are also forecasted. An example of automation in Jamaica, occured where banks laid off workers having consolidated their roles through automation. Some examples are self-serve applications at insurance renewal sites, or entire branch closings.
 
