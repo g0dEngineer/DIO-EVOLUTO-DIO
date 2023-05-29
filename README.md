@@ -42,7 +42,15 @@ https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
 
 ⚫ On board (low energy consumption) 3d artificial intelligence/human assistant/friend in automobile, similar to [my xSynth Honda Civic Demo](https://youtu.be/pxgLJSd3_-s).
 
+# Author background
 
+⚫By around 2030, according to BBC around 800 million jobs are slated to be automated away (including the recently celebrated BPO jobs), as I noted in one of my 2019 gleaner articles "[Why Jamaica urgently needs a Minister of Ai](https://jamaica-gleaner.com/article/news/20191229/why-jamaica-urgently-needs-minister-artificial-intelligence)".
+
+⚫In the same article, I cited that back in 2016 I had advised UWI to introduce Neural Networks to their Ai curicullum. These systems power many smart systems today, from RankBrain in Google search to ChatGPT. This would, among other goals, reasonably help us capitalize on Ai as creators of these platforms, rather than act as responders to growing waves of automation via unskilled Jamaicans in the modern era. Beyond these pitfalls, in the wave of demonstrably growing automation, increases in crime etc are also forecasted. An example of automation in Jamaica, occured where banks laid off workers having consolidated their roles through automation. Some examples are self-serve applications at insurance renewal sites, or entire branch closings.
+
+In another local newspaper/gleaner article of mine in 2018, "[Uilising ai could aid economic stimulation](https://jamaica-gleaner.com/article/news/20180604/artificial-intelligence-and-economy-utilising-artificial-intelligence-could)", I also cited call center jobs as being liable to be automated by Ai. This is now becoming more apparent in 2023, with the introduction of DISI to the marketplace.
+
+⚫As cited in the gleaner, to try to help nation mitigate some of the about fallout, around 2016 Bennett set out to launch the 1st known University of A.i., as launched partially at mlj-institute.rf.gd namely Machine Learning Jamaica Institute, though Bennett did not secure funding. Abu Dabi later launched a similar University for Ai in 2020.
 
 
 # Gallery/Blog/3d Model Download:
