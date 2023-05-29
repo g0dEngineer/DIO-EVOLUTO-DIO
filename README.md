@@ -11,6 +11,7 @@ The construction of this prototype harkens back to [the long discontinued time w
 In addition, this protypype shall, beyond the iconic Jamaican made Jeeps of the past era:
 
 A. Serve schools/universities as practical mode of Ai application/usage in helping to further propel Jamaica into the modern era of Ai.
+
 B. Focus on sustainable energy usage.
 
 
