@@ -13,7 +13,7 @@ In addition, this protypype shall, beyond the iconic Jamaican made Jeeps of the 
 
 A. Serve schools/universities as practical mode of Ai application/usage in helping to further propel Jamaica into the modern era of Ai.
 
-B. Focus on [sustainable energy usage](https://www.behance.net/gallery/125520935/TheOmniAutomobil-Sustainable-Energy-Visual-Car-Design).
+B. Focus on [sustainable energy usage](https://www.behance.net/gallery/125520935/TheOmniAutomobil-Sustainable-Energy-Visual-Car-Design), especially in our reasonably solar aligned nation, or other bright sunny regions.
 
 
 # Proposal & Cost Showcase:
