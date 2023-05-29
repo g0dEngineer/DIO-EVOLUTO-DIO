@@ -29,12 +29,18 @@
 
 ⚫ On board (low energy consumption) 3d artificial intelligence/human assistant/friend in automobile, similar to [my xSynth Honda Civic Demo](https://youtu.be/pxgLJSd3_-s).
 
+⚫ The construction of this prototype harkens back to the long discontinued time when Jamaica, via Excel Motors, produced its own Jamaican made Jeep over 20 years ago.
+This protypype shall, beyond the iconic Jamaican made Jeeps of the past era:
+A. Serve schools/universities as practical mode of Ai application/usage in helping to further propel Jamaica into the modern era of Ai.
+B. Focus on sustainable energy usage.
+
+
 
 # Gallery/Blog/3d Model Download:
 
 https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio
 
 
-# Proposal:
+# Proposal & Cost Showcase:
 
 https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
