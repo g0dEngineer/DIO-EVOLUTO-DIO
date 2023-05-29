@@ -62,7 +62,7 @@ https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
 
 ⚫As cited in the gleaner, to try to help nation mitigate some of the about fallout, around 2016 Bennett set out to launch the 1st known University of A.i., as launched partially at mlj-institute.rf.gd namely Machine Learning Jamaica Institute, though Bennett did not secure funding. Abu Dabi later launched a similar University for Ai in 2020.
 
-# To help muster more attention towards A.i. and fallout from automation, apart from teaching his A.i. course, and as a part of Bennett's passion, also set out to construct a simple/full scale self driving prototype, based on currently open-source technologies and Bennett's own 3d automobile design, namely Dio.
+# To help muster more attention towards A.i. and fallout from automation, apart from teaching his A.i. course, and as a part of Bennett's passion, Bennett also set out to construct a simple/full scale self driving prototype, based on currently open-source technologies and Bennett's own 3d automobile design, namely Dio.
 
 
 
