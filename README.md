@@ -28,6 +28,10 @@ https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
 
 ![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/5-annotated.png)
 
+![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/3%20-%20annotated.png)
+
+
+
 ✋✋Looking for some volunteers to help me along in this little project!
 #OmniAutomobil #Dio #NewSustainableEnergyVisualCarDesignCategory
 
