@@ -9,7 +9,7 @@ Shown above: Things that inspired [Bennett's automobile design](https://www.beha
 
 The construction of this prototype harkens back to [the long discontinued time when Jamaica](https://www.orlandosentinel.com/2003/08/30/jamaica-enters-auto-business-with-1st-island-cruiser-jeep-2/), via Excel Motors, produced its own Jamaican made Jeep over 20 years ago.
 
-In addition, this protypype shall, beyond the iconic Jamaican made Jeeps of the past era:
+In addition, [this protypype](https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio shall, beyond the iconic Jamaican made Jeeps of the past era:
 
 A. Serve schools/universities as practical mode of Ai application/usage in helping to further propel Jamaica into the modern era of Ai.
 
