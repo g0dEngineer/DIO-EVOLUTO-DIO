@@ -14,6 +14,11 @@ A. Serve schools/universities as practical mode of Ai application/usage in helpi
 B. Focus on sustainable energy usage.
 
 
+# Proposal & Cost Showcase:
+
+https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
+
+
 
 # Real life, full scale 1 of 1 production of my 3d concept Dio has began. This shall be a repository concerning software development re Dio.
 
@@ -44,6 +49,3 @@ B. Focus on sustainable energy usage.
 https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio
 
 
-# Proposal & Cost Showcase:
-
-https://drive.google.com/file/d/1bozkKAFfWdFXIIRY2kqTmnb4h-CwXntq/view
