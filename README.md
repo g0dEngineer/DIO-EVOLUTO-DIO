@@ -3,6 +3,7 @@
 
 ![image](https://github.com/g0dEngineer/DIO-EVOLUTO-DIO/blob/main/data/images/1.jpg)
 
+Shown above: Things that inspired [Bennett's automobile design](https://www.behance.net/gallery/171268273/Aria-Dio-Evoluto-Dio).
 
 # Mid-term to Long-term Goals 
 
@@ -12,7 +13,7 @@ In addition, this protypype shall, beyond the iconic Jamaican made Jeeps of the 
 
 A. Serve schools/universities as practical mode of Ai application/usage in helping to further propel Jamaica into the modern era of Ai.
 
-B. Focus on sustainable energy usage.
+B. Focus on [sustainable energy usage](https://www.behance.net/gallery/125520935/TheOmniAutomobil-Sustainable-Energy-Visual-Car-Design).
 
 
 # Proposal & Cost Showcase:
